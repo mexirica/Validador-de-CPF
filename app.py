@@ -45,4 +45,4 @@ def verificarCpf(cpf):
         print("CPF inválido")
         
 
-verificarCpf("119.527.246-43")
+verificarCpf()
